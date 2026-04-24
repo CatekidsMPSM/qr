@@ -1,2 +1,2 @@
-# qr
+# catekids qr
 checar asistencias
