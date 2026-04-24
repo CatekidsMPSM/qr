@@ -1,0 +1,2 @@
+# qr
+checar asistencias
